@@ -29,7 +29,7 @@ const webProjects = [
     title: 'Business Website (MERN Stack)',
     desc: 'Full-stack business website with contact form, MongoDB database & admin panel. Built with MERN stack.',
     tech: ['MongoDB', 'Express', 'React', 'Node.js'],
-    link: 'https://business-website.vercel.app/',
+    link: 'https://business-website-sigma-plum.vercel.app/',
     image: '/projects/business-website.png',
   },
   // ⬇️ Purane projects
