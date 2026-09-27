@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khalil-eshu-developer-khalil-portfo.vercel.app/sitemap.xml
