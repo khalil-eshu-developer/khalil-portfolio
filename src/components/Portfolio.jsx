@@ -87,7 +87,7 @@ const Portfolio = () => {
           viewport={{ once: true }}
           className="text-4xl font-bold text-center mb-4"
         >
-          My <span className="gradient-text">Portfolio</span>
+          My <span className="gradient-text">Projects</span>
         </motion.h2>
 
         <motion.p

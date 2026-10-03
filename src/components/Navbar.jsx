@@ -13,7 +13,7 @@ const Navbar = () => {
     { name: 'Services', href: '#services' },
     { name: 'Skills', href: '#skills' },
     { name: 'Certificates', href: '#certificates' },
-    { name: 'Portfolio', href: '#portfolio' },
+    { name: 'Projects', href: '#portfolio' },
     { name: 'Testimonials', href: '#testimonials' },
     { name: 'FAQ', href: '#faq' },
     { name: 'Contact', href: '#contact' },
